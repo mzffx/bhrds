@@ -1,7 +1,7 @@
 {
-  "name": "vless-node-bot",
+  "name": "vlotiange",
   "version": "1.0.0",
-  "description": "Sing-box VLESS Runner",
+  "description": "nodejs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
