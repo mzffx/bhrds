@@ -10,12 +10,12 @@
       "listen_port": 8080,
       "users": [
         {
-          "uuid": "你的uuid"
+          "uuid": "ef6d36c4-9dcc-458e-a4e9-f2adbc9a5ffc"
         }
       ],
       "transport": {
         "type": "ws",
-        "path": "/vless-ws"
+        "path": "/Mef6d36cc9a5ffc"
       }
     }
   ],
